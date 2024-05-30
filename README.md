@@ -27,5 +27,8 @@
 Архитектура:
 backend (Python) - API - frontend (Next)
 > [!TIP]
+> [Правила работы с Frontend](</Frontend.md>)
+
+> [!TIP]
 > [Правила работы с GIT](</Git.md>)
 
