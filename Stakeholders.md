@@ -22,3 +22,5 @@
 | [Владелец продукта](</stakeholders/productOwner.md>) | Заморина А. А. | 
 | [Заказчик](</stakeholders/customer.md>) | Иванов И. И. |
 | [Инвестор](</stakeholders/investor.md>) | Петров П. П. |
+
+## Сравнение инвесторов
