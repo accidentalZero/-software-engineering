@@ -21,6 +21,8 @@
 |---|---|
 | [Владелец продукта](</stakeholders/productOwner.md>) | Заморина А. А. | 
 | [Заказчик](</stakeholders/customer.md>) | Иванов И. И. |
-| [Инвестор](</stakeholders/investor.md>) | Петров П. П. |
+| [Инвестор](</stakeholders/investor1.md>) | Петров П. П. (ООО Спортмастер) |
+| [Инвестор](</stakeholders/investor2.md>) | Сидоров С. С. (ВК-Шаги) |
+| [Инвестор](</stakeholders/investor3.md>) | Смирнов А. А. (GrowFood) |
 
 ## Сравнение инвесторов
