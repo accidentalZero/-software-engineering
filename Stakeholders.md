@@ -9,7 +9,7 @@
 ## Анализ заинтересованных сторон
 <style>
   .investorTable tr:nth-child(3) { background: green; }
-</<style>
+</style>
 <div class="investorTable">
 | Заинтересованная сторона | Представитель | Цель | Обязательства | Влияние | Интерес |
 |---|---|---|---|---|---|
