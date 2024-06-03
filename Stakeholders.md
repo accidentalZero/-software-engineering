@@ -15,6 +15,67 @@
 | Команда разработки | Заморина А. А.,<br> Попов Д. С,<br> Петренко А. Н,<br> Чулков А. Д | Создание качественного функционала | Разработка необходимого функционала | 10 | 10 |
 | Будущий пользователь |  |  |  | 2 | 7 |
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Заинтересованная сторона</th>
+    <th class="tg-0pky">Представитель</th>
+    <th class="tg-0pky">Цель</th>
+    <th class="tg-0pky">Обязательства</th>
+    <th class="tg-0pky">Влияние</th>
+    <th class="tg-0pky">Интерес</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Владелец продукта</td>
+    <td class="tg-0pky">Заморина А. А.</td>
+    <td class="tg-0pky">Выпустить продукт на рынок в кратчайшие сроки, чтобы опередить конкурентов</td>
+    <td class="tg-0pky">Оплачивает работу команды и создает все условия для создания продукта</td>
+    <td class="tg-0pky">10</td>
+    <td class="tg-0pky">10</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Заказчик</td>
+    <td class="tg-0pky">Иванов И. И.</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Отвечает за работоспособность фронтенд-части приложения</td>
+    <td class="tg-0pky">6</td>
+    <td class="tg-0pky">3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Инвестор</td>
+    <td class="tg-0pky">Петров П. П.</td>
+    <td class="tg-0pky">Получить более удобное приложение вызова такси</td>
+    <td class="tg-0pky">— </td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">2</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Команда разработки</td>
+    <td class="tg-0pky">Заморина Арина, Попов Дмитрий, Петренко Артемий, Чулков Андрей,</td>
+    <td class="tg-0pky">Получить опыт, повышение и бонус за выпуск проекта в срок</td>
+    <td class="tg-0pky">Он уже вложился в разработку и ждет дивидендов</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">9</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Будущий пользователь</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody></table>
+
 ## Основные стейкхолдеры
 | Заинтересованная сторона | Представитель | 
 |---|---|
