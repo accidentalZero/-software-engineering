@@ -21,9 +21,9 @@
 |---|---|
 | [Владелец продукта](</stakeholders/productOwner.md>) | Заморина А. А. | 
 | [Заказчик](</stakeholders/customer.md>) | Иванов И. И. |
-| [Инвестор](</stakeholders/investor1.md>) | Петров П. П. (ООО Спортмастер) |
-| [Инвестор](</stakeholders/investor2.md>) | Сидоров С. С. (ВК-Шаги) |
-| [Инвестор](</stakeholders/investor3.md>) | Смирнов А. А. (Медси) |
+| [ООО Спортмастер](</stakeholders/investor1.md>) | Петров П. П. |
+| [ВК-Шаги](</stakeholders/investor2.md>) | Сидоров С. С. |
+| [Медси](</stakeholders/investor3.md>) | Смирнов А. А. |
 
 
 ## Сравнение инвесторов
