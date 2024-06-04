@@ -5,3 +5,6 @@
 
 
 ![image](https://github.com/accidentalZero/software-engineering/assets/105588367/b1086ab6-4bce-4b83-a349-ef6b711544ad)
+
+
+![ER-диаграмма базы данных (с «вороньими лапками»)](https://github.com/accidentalZero/software-engineering/assets/105588367/78d1e70e-bbd6-4c50-a0a5-5fd81c485a42)
