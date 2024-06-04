@@ -22,6 +22,7 @@
 - [🔎 Сценарии тестирования](<TestCases.md>)
 - [📐 Атрибуты качества](</QualityAttributes.md>)  
 - [🖼️ Описание Frontend проекта](</Frontend.md>)
+- [🖼️ Проектирование процессов](</Process.md>)
 
 > [!TIP]
 > [Правила работы с GIT](</Git.md>)
