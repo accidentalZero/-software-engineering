@@ -7,4 +7,4 @@
 
 ![image](https://github.com/accidentalZero/software-engineering/assets/105588367/60028d4f-d05c-496b-99f8-53d6cdaadfe5)
 
-![image](https://github.com/accidentalZero/software-engineering/assets/105588367/0a7beb06-c6db-4cde-a221-c1f9e3a557c1)
+![image](https://github.com/accidentalZero/software-engineering/assets/105588367/d3573efb-7259-427d-90fa-601c593f77be)
