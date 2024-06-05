@@ -23,6 +23,7 @@
 - [📐 Атрибуты качества](</QualityAttributes.md>)  
 - [🖼️ Описание Frontend проекта](</Frontend.md>)
 - [🖼️ Проектирование процессов](</Process.md>)
+- [🖼️ Сайт ](</Site.md>)
 
 > [!TIP]
 > [Правила работы с GIT](</Git.md>)
