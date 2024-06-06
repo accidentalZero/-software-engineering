@@ -24,7 +24,9 @@
 - [🖌️ Макеты ](</Site.md>)
 - [🏗️ Архитектура и требования](</architecture-and-requirements/ArchitectureRequirements.md>)
 - [🖼️ Описание Frontend проекта](</architecture-and-requirements/Frontend.md>)
-- [📐 Атрибуты качества](</QualityAttributes.md>)  
+- [📐 Атрибуты качества](</QualityAttributes.md>)
+- [Руководство пользователя](</userGuide.md>)
+- [SLA](</SLA.md>)
 
 
 > [!TIP]
