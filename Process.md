@@ -8,3 +8,7 @@
 
 ## ER-Диаграмма
 ![ER-диаграмма базы данных (с «вороньими лапками»)](https://github.com/accidentalZero/software-engineering/assets/59977759/2330ac1e-4b4d-4589-9b3d-dacbb8fe6e14)
+
+## UML
+![image](https://github.com/accidentalZero/software-engineering/assets/59977759/9b38372a-bdec-4387-928e-2ad79506f75f)
+
